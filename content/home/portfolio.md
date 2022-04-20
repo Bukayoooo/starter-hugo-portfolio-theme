@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Java
       tag: ML
-    - name: Computer Vision
+    - name: MySQL
       tag: CV
-    - name: NLP
+    - name: Redis
       tag: NLP
 
 design:
